@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Aqsa Tahir! 👋
 
-<!--
-**AqsaTahir1/AqsaTahir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Information Technology Graduate | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm an IT graduate passionate about software development and web technologies. I'm currently learning and improving my skills in Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+- Languages: C++, Java, JavaScript, Python
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python, Flask
+- Database: MySQL, SQLite
+- Tools: VS Code, Git, GitHub, Linux
+
+🌱 Currently Learning
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+🎯 My Goals
+- Build real-world web applications.
+- Improve my programming and problem-solving skills.
+- Grow as a Full Stack Developer.
+
+📫 Connect With Me
+- LinkedIn: linkedin.com/in/aqsa-tahir
+
+Thanks for visiting my profile! 😊
